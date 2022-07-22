@@ -1,1 +1,2 @@
-# quantitative_finances
+# Estudos Quantitative Finances:
+
